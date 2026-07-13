@@ -2,3 +2,6 @@
 env/
 .venv
 venv/
+Trip_Planner/
+AgenticAI_RAG_using_CrewAI
+crewai-lead-score-flow
